@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini-API de Catálogo - FastAPI
 
 ## Descripción
@@ -84,3 +85,16 @@ GET http://127.0.0.1:8000/buscar?nombre=Teclado&precio_max=100000
 - **FastAPI:** Framework de Python para APIs modernas
 - **Uvicorn:** Servidor ASGI que ejecuta la aplicación
 - **Python 3.13:** Lenguaje de programación
+=======
+# TAREA TEO - FastAPI
+
+## Descripción
+API REST para una plataforma de comercio electrónico.
+
+## Endpoints
+- GET /
+- GET /productos
+- GET /productos/{id}
+- GET /categorias
+- GET /buscar
+>>>>>>> ccbef893c841119c5f091793c5cded15afa88ede
